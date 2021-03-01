@@ -1,0 +1,5 @@
+Decimal value: 2336
+Unicode value: U+0920
+Byte value: 111000001010010010100000
+Utf-8: e0a4a0
+Character: ठ

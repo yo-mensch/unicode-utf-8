@@ -1,0 +1,5 @@
+﻿  unicode.cpp
+C:\Users\37066\source\repos\unicode\unicode\unicode.cpp(118,20): warning C4244: 'initializing': conversion from 'long' to 'wchar_t', possible loss of data
+C:\Users\37066\source\repos\unicode\unicode\unicode.cpp(151,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\37066\source\repos\unicode\unicode\unicode.cpp(167,39): warning C4244: 'initializing': conversion from 'long' to 'wchar_t', possible loss of data
+  unicode.vcxproj -> C:\Users\37066\source\repos\unicode\Debug\unicode.exe
